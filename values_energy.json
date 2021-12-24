@@ -1,0 +1,1502 @@
+[
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "19",
+            "Quality": "9439544818971181313",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.04Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPSURAC01-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPSURAC01-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPSURAC01-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "18",
+            "Quality": "9439544818971181313",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.041Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC01-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC01-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC01-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "19",
+            "Quality": "9439544818971181313",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.041Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC02-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC02-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC02-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "18",
+            "Quality": "9439544818971181313",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.04Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC02-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC02-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC02-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "9220",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.102Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC-03-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC-03-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC-03-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "5875",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.04Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC03-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC03-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC03-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "6233",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.114Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC5-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC5-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC5-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "11048",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.15Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC07-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC07-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC07-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "11367",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.042Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC04-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC04-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC04-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "674",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.113Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC07-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC07-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC07-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "9844",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.043Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC04-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC04-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC04-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2640",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.12Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC11-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC11-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC11-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "1261",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.042Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC05-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC05-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC05-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "5216",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.12Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC12-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC12-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC12-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2422",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.147Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC12-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC12-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC12-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "7291",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.12Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC13-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC13-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC13-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "340",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.121Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC14-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC14-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC14-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "6011",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.042Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC06-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC06-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC06-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "342",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.121Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC14-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC14-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC14-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "1145",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.12Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC15-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC15-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC15-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "360",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.12Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC15-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC15-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC15-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "329",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.12Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC16-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC16-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC16-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "337",
+            "Quality": "9439544818971181313",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.12Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC16-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC16-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC16-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2380",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.05Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC06-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC06-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC06-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2929",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.139Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC17-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC17-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC17-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "224",
+            "Quality": "9439544818971181313",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.045Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC08-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC08-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC08-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "7385",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.166Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC18-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC18-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC18-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "233",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.043Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC08-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC08-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC08-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "4865",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC19-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC19-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC19-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2273",
+            "Quality": "9439544818971181313",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.045Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC09-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC09-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC09-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "3851",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.12Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC19-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC19-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC19-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2397",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.043Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC09-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC09-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC09-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2826",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.043Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC10-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC10-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC10-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "4381",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.12Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC20-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC20-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC20-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2054",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.057Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC10-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC10-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC10-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "7313",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC20-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC20-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC20-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "401",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.047Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC11-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC11-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC11-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "6011",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.121Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC21-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC21-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC21-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2331",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.05Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC13-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC13-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC13-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "9329",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC21-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC21-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC21-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "9300",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.057Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPSURAC17-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPSURAC17-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPSURAC17-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "9737",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.148Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC22-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC22-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC22-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "3764",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.124Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC22-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC22-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC22-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "9300",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.053Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC18-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC18-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC18-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "3730",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.048Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC27-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC27-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC27-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "1636",
+            "Quality": "9439544818971181313",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.053Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC36-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC36-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNPM-1_IPDURAC36-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "6076",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.147Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC50-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC50-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC50-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "6114",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.149Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC50-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC50-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC50-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "11001",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.147Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC49-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC49-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC49-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "10907",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.149Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC49-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC49-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC49-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "1697",
+            "Quality": "9439544818971181313",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.148Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC48-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC48-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC48-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "1921",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.147Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC48-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC48-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC48-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2794",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.146Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC47-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC47-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC47-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "4653",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.146Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC47-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC47-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC47-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "4773",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC23-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC23-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC23-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "7350",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.148Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC46-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC46-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC46-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "3283",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.124Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC23-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC23-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC23-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "19",
+            "Quality": "9439544818971181313",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.124Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC24-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC24-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC24-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "19",
+            "Quality": "9439544818971181313",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.124Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC24-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC24-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC24-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "6850",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.148Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC46-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC46-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC46-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "519",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.124Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC25-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC25-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC25-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "5228",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.147Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC45-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC45-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC45-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "5424",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.147Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC45-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC45-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC45-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "8420",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.146Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC44-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC44-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC44-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "9231",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.147Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC44-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC44-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC44-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "489",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC25-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC25-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC25-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "459",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.124Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC26-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC26-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC26-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "3084",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.136Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC26-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC26-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC26-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2640",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.134Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC27-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC27-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC27-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2894",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.134Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC28-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC28-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC28-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "771",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.138Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC28-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC28-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC28-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "112",
+            "Quality": "9439544818971181313",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.134Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC29-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC29-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC29-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "552",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.139Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC29-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC29-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC29-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "11382",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.151Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC43-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC43-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC43-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "13533",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.139Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC43-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC43-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC43-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2326",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.149Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC30-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC30-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC30-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "20125",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.139Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC42-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC42-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC42-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "11765",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.15Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC42-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC42-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC42-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "3843",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC30-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC30-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC30-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "22863",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.181Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC41-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC41-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC41-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "536",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.145Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC31-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC31-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC31-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "6330",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.139Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC41-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC41-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC41-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "5760",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.139Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC40-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC40-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC40-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "8634",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC31-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC31-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC31-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "7511",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC32-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC32-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC32-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "5379",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC32-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC32-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC32-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2941",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.139Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC33-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC33-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC33-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "3044",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC33-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC33-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC33-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "3567",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC34-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC34-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC34-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "3788",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.146Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC34-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC34-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC34-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "3552",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC35-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC35-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC35-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "3511",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.146Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC35-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC35-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC35-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "1522",
+            "Quality": "9439544818971181313",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC36-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC36-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC36-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2825",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.135Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC37-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC37-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC37-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "2635",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.136Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC37-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC37-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC37-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "5368",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.103Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC38-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC38-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC38-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "5693",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.147Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC38-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC38-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC38-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "5634",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.139Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC39-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC39-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC39-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "5728",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.147Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC39-2.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC39-2",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC39-2.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    },
+    {
+        "DataType": "BasicUint",
+        "Value": {
+            "Value": "5920",
+            "Quality": "9439544818972229889",
+            "QualityGood": true,
+            "Timestamp": "2021-12-09T05:10:45.148Z"
+        },
+        "OriginalObjectOrPropertyId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC40-1.pduTotalEnergy",
+        "ObjectId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC40-1",
+        "PropertyName": "pduTotalEnergy",
+        "AttributeId": "Project:ManagementView_FieldNetworks_SNMP_IPDURAC40-1.pduTotalEnergy:_online.._value",
+        "ErrorCode": 0,
+        "IsArray": false
+    }
+]
