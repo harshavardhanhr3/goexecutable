@@ -1,0 +1,29 @@
+[Unit]
+Description=Agent service
+ConditionPathExists=/usr/local/bin/agentservice
+After=network.target
+ 
+[Service]
+Type=simple
+User=agentservice
+Group=agentservice
+LimitNOFILE=1024
+
+Restart=on-failure
+RestartSec=10
+startLimitIntervalSec=60
+
+WorkingDirectory=/usr/local/bin
+ExecStart=/usr/local/bin/agentservice --name=foo
+
+# make sure log directory exists and owned by syslog
+PermissionsStartOnly=true
+ExecStartPre=/bin/mkdir -p /var/log/agentservice
+ExecStartPre=/bin/chown syslog:adm /var/log/agentservice
+ExecStartPre=/bin/chmod 755 /var/log/agentservice
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=agentservice
+ 
+[Install]
+WantedBy=multi-user.target
